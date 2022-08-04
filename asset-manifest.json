@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/MyReads/static/css/main.71ce2cfd.chunk.css",
-    "main.js": "/MyReads/static/js/main.687972e2.chunk.js",
-    "main.js.map": "/MyReads/static/js/main.687972e2.chunk.js.map",
+    "main.js": "/MyReads/static/js/main.8a122a3c.chunk.js",
+    "main.js.map": "/MyReads/static/js/main.8a122a3c.chunk.js.map",
     "runtime-main.js": "/MyReads/static/js/runtime-main.d6e194cd.js",
     "runtime-main.js.map": "/MyReads/static/js/runtime-main.d6e194cd.js.map",
-    "static/js/2.b32d5cde.chunk.js": "/MyReads/static/js/2.b32d5cde.chunk.js",
-    "static/js/2.b32d5cde.chunk.js.map": "/MyReads/static/js/2.b32d5cde.chunk.js.map",
+    "static/js/2.d99d09bd.chunk.js": "/MyReads/static/js/2.d99d09bd.chunk.js",
+    "static/js/2.d99d09bd.chunk.js.map": "/MyReads/static/js/2.d99d09bd.chunk.js.map",
     "index.html": "/MyReads/index.html",
     "static/css/main.71ce2cfd.chunk.css.map": "/MyReads/static/css/main.71ce2cfd.chunk.css.map",
-    "static/js/2.b32d5cde.chunk.js.LICENSE.txt": "/MyReads/static/js/2.b32d5cde.chunk.js.LICENSE.txt",
+    "static/js/2.d99d09bd.chunk.js.LICENSE.txt": "/MyReads/static/js/2.d99d09bd.chunk.js.LICENSE.txt",
     "static/media/App.css": "/MyReads/static/media/arrow-drop-down.4378492a.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.d6e194cd.js",
-    "static/js/2.b32d5cde.chunk.js",
+    "static/js/2.d99d09bd.chunk.js",
     "static/css/main.71ce2cfd.chunk.css",
-    "static/js/main.687972e2.chunk.js"
+    "static/js/main.8a122a3c.chunk.js"
   ]
 }
